@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[une:home|Door43 (une)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-une|d43-une repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-une/archive/master.zip|d43-une.zip]]
+
+**Recent Changes**
+{{changes>ns = une}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/une|Ethnologue data]]
+
